@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T10:33:19.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="7RBvXM00sRdj3PD34TQQ" version="14.6.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-05-07T07:12:25.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="dMskHr184Tm9oz3tDTfz" version="14.6.10" type="github" pages="8">
   <diagram id="-muVetCGprohidL9E17A" name="首页">
-    <mxGraphModel dx="868" dy="426" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,7 +93,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BowaKGtA6qMr1BKsDz0Y" name="前台课程">
-    <mxGraphModel dx="868" dy="426" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KxBfUZQudGoGJKo_5Ngx-0" />
         <mxCell id="KxBfUZQudGoGJKo_5Ngx-1" parent="KxBfUZQudGoGJKo_5Ngx-0" />
@@ -359,7 +359,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k_lhRhxCmC_rFuB4rXsM" name="课程详情">
-    <mxGraphModel dx="1085" dy="1702" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="1736" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="q580-TQVkMoyCNeISTnV-0" />
         <mxCell id="q580-TQVkMoyCNeISTnV-1" parent="q580-TQVkMoyCNeISTnV-0" />
@@ -509,7 +509,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dmJgmgsfOOX2trIGR0hY-3" value="猜你喜欢" style="rhombus;whiteSpace=wrap;html=1;" parent="q580-TQVkMoyCNeISTnV-1" vertex="1">
+        <mxCell id="dmJgmgsfOOX2trIGR0hY-3" value="相关课程" style="rhombus;whiteSpace=wrap;html=1;" parent="q580-TQVkMoyCNeISTnV-1" vertex="1">
           <mxGeometry x="310" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dmJgmgsfOOX2trIGR0hY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="q580-TQVkMoyCNeISTnV-1" source="dmJgmgsfOOX2trIGR0hY-4" edge="1">
