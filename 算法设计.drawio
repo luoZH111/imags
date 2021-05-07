@@ -1,1 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T08:59:17.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="SCBkgWMKnB6u8u3FHsd1" version="14.6.0" type="github"><diagram id="Qy1lkaoLOfp0_1lHqkXl" name="Page-1">5VrbkqM2EP0aPW4KEBfxCDbeVCWpSjIP2XlkbK0hiy0Hy2M7Xx9JCGOQbLOZMcKzU64pqZG4tE53n24JwMnq8LlMN9lvZIEL4FiLA4BT4DjIR+w/Fxwrgev4lWBZ5otKZDWCp/xfXAntWrrLF3grZZWIElLQfNMWzsl6jee0JUvLkuzbw76SYtESbNIlVgRP87RQpX/lC5rJz3KCRv4zzpdZ/WTbD6srL+n827Iku7V8HnDgTPxVl1dpfS/5odssXZD9mQgmAE5KQmjVWh0muOCqbattduHq6b1LvKZ9JvzyaT99iZ4/b2bFP1//+BO/4Ff7k1yr17TY4fozxMvSY60gvGD6kl1S0owsyTotkkYaCyVg/hiL9ZoxvxKyYUKbCf/GlB7l4qc7Spgoo6tCXq2eyR908dukaEt25Rxf+aAaQmm5xPTKOHhaAQZsTFaYlkc2r8RFSvPX9nukEmLL07hGzawhNf0dWrdVrSceiCcAWbwRBQDFyjo0WuYq22c5xU+bVChjzyxTp9FXXFJ8uK5TVQdyQgCrGdKuoScNfd9YiV1jOzuzEN+6k9aQVmuhBSL/wUHr9ARtYBS0lkb/PggRiGY/iP5Dk/p3rqj/ZAdJAMIQxLHwJ1MQeqobycjqZbcdxIVAFLZ9iKv6EKRxIeheLsT7aOEO9kSuYxK5UINcl4MURQLCAYg83kAJiBBIEEBTDufuytwfrwygI4t59ocjaEFPxNqeScgGWq4R29yjMh8bMfgy7IYgdCVnY40o4RLEyNuMN6KYO2fukCOAXA5r5qjjRExHOoJ3f3x71ujwrYlqj43vsC++LyzVMPgONfhGHMGRLQCacK/MsesKl8x8MwJxIGyA0QsoED/lWK9gzfHt8TFIpeID0Ay/TTNczzcNa/ejwdrum1jbZjNrXWrdB9hMEoMYCWIy4T8O9UiXWg5AQ+qoPx48Bybgy9RVHr/w+T95dff5/Nr0IG9e9Y6y956w70uw30xXxNSoLNPj2YANydd0e3bn37mgQYoN20UaT/ZnF8Z7vnttPGtUb9Ag5fQpbwCPjv+rNqnwIzUjMGiTnWrYCExSk8sy1bGsKoQiq2IaU+syQxcRu4xzBHrTlBHHE5pvO6S+/NJxe6/VQKFZxzlHV/XuUEnP9wzjFSIjofeQ0y9n7ecmCrNeE3d5pw67Tbg+D9Znsfv+4boG/e3tH6PVBUeTHjDfjSYgnAgGOgVRVVXwhcQH0QREqp8agop2CINxe3DGUcO9xE2t/wf228j2+/p99P5+/xKZtFrY8H3YvkX1rnJWZ9nfgVc6mtoop4qJrFSgGbcfuREiShYo5ERyHJW4tu5GYFeakucD8aIa9rc9v/X+9vE2xev2tfukR6OsxXWB7ZsHtoZ3PhCwa7zeBrYzMmBD3YGBPsAeUy3utEUyGjy76s7ogAlBzfq/KyGwgamEoDaK29Zj9GxH/Zo39hsvG8Y49xu72YN544FGjoo9aDYNvZ7GUzHxoYvfbtB2zZ487XTXYjbUlV3VpEMNago345Y6A1EojhEgEKtHtYaPbubTEKirEo6urN2pEt7Tr7Fuc0a8QnFzDh8m/wE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-07T03:09:37.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="5jSTA4JSdgGLy6niDgRE" version="14.6.6" type="github">
+  <diagram id="Qy1lkaoLOfp0_1lHqkXl" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K-wDbAYGpFlqfQRebev1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K-wDbAYGpFlqfQRebev1-1" target="K-wDbAYGpFlqfQRebev1-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="73" y="358" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-8" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K-wDbAYGpFlqfQRebev1-2" target="K-wDbAYGpFlqfQRebev1-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-10" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K-wDbAYGpFlqfQRebev1-2" target="K-wDbAYGpFlqfQRebev1-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-2" value="是否登录" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="389" y="348" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K-wDbAYGpFlqfQRebev1-3" target="K-wDbAYGpFlqfQRebev1-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-3" value="今日淘课" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="234" y="358" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K-wDbAYGpFlqfQRebev1-7" target="K-wDbAYGpFlqfQRebev1-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-7" value="展示销售量高的课程" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="504" y="358" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K-wDbAYGpFlqfQRebev1-9" target="K-wDbAYGpFlqfQRebev1-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-9" value="计算用户平均评分" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="369" y="456" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K-wDbAYGpFlqfQRebev1-11" target="K-wDbAYGpFlqfQRebev1-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-11" value="计算用户相似度" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="216" y="456" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="K-wDbAYGpFlqfQRebev1-13" target="K-wDbAYGpFlqfQRebev1-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="133" y="533" />
+              <mxPoint x="564" y="533" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-13" value="计算课程推荐度" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="73" y="456" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="504" y="456" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K-wDbAYGpFlqfQRebev1-19" target="K-wDbAYGpFlqfQRebev1-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-19" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="69" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="K-wDbAYGpFlqfQRebev1-24" target="K-wDbAYGpFlqfQRebev1-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-24" value="相关课程" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="214" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="K-wDbAYGpFlqfQRebev1-26" target="K-wDbAYGpFlqfQRebev1-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="663" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-26" value="获取当前课程" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K-wDbAYGpFlqfQRebev1-28" target="K-wDbAYGpFlqfQRebev1-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-28" value="计算课程平均评分" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K-wDbAYGpFlqfQRebev1-30" target="K-wDbAYGpFlqfQRebev1-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-30" value="计算课程相似度" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="358" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="K-wDbAYGpFlqfQRebev1-32" target="K-wDbAYGpFlqfQRebev1-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-32" value="展示相似度高的课程" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="214" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="K-wDbAYGpFlqfQRebev1-35" target="K-wDbAYGpFlqfQRebev1-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="478" y="595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-35" value="获取课程评分矩阵" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="358" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-wDbAYGpFlqfQRebev1-39" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="69" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
